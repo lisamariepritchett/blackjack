@@ -1,0 +1,1 @@
+blackjack.py is a basic blackjack game coded in python. It tracks wins and losses but doesn't have a betting mechanism.
